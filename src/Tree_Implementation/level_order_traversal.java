@@ -2,7 +2,7 @@ package Tree_Implementation;
 
 import java.util.LinkedList;
 import java.util.Queue;
-
+// this is also known as BFS(breadth first search)
 public class level_order_traversal {
     static class Node{
         int data;
